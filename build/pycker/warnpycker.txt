@@ -1,0 +1,28 @@
+missing module named 'org.python' - imported by pickle, /home/abhay/PycharmProjects/IgDpPycker/pycker.py, xml.sax
+missing module named ce - imported by os, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named _winreg - imported by platform, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named java - imported by platform, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named 'java.lang' - imported by platform, /home/abhay/PycharmProjects/IgDpPycker/pycker.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named msvcrt - imported by subprocess, getpass, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named _winapi - imported by subprocess, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named winreg - imported by platform, mimetypes, urllib.request, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named _dummy_threading - imported by dummy_threading, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named nt - imported by os, ntpath, shutil, pathlib, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named org - imported by copy, /home/abhay/PycharmProjects/IgDpPycker/pycker.py
+missing module named iconv_codec - imported by bs4.dammit
+missing module named cchardet - imported by bs4.dammit
+missing module named 'html5lib.treebuilders' - imported by bs4.builder._html5lib
+missing module named 'html5lib.constants' - imported by bs4.builder._html5lib
+missing module named html5lib - imported by bs4.builder._html5lib
+missing module named _sysconfigdata_dm - imported by _sysconfigdata
+missing module named PIL.ImageTk - imported by PIL, PIL.SpiderImagePlugin
+missing module named 'PySide.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt4.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt5.QtCore' - imported by PIL.ImageQt
+missing module named _imaging_gif - imported by PIL.GifImagePlugin
+missing module named cffi - imported by PIL.Image, PIL.PyAccess
+missing module named __builtin__ - imported by PIL.Image
+missing module named _scproxy - imported by urllib.request
