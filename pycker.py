@@ -1,3 +1,11 @@
+""" This is a python program to get Instagram Profile Photo of entered User.
+
+	Function:
+	  fetch_image():
+	  	params: username of the instagram user 
+
+"""
+
 from urllib.request import urlopen
 from urllib.error import HTTPError
 from urllib.error import URLError
