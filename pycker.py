@@ -1,3 +1,18 @@
+""" This is a python program to get Instagram Profile Photo of entered User.
+
+	Usage:
+	Method 1) Call the program direclty using following command:
+				"python3 pycker.py"
+			  and you will be prompted with the username.
+	 
+	Method 2) Import the package in python3 REPL(opened in the same directory as the program) using following command:
+			"from pycker import *"
+			  and execute the program using following command:
+			  	"main()"
+			  and you will be prompted with the username.
+
+"""
+
 from urllib.request import urlopen
 from urllib.error import HTTPError
 from urllib.error import URLError
