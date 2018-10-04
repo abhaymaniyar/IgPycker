@@ -1,4 +1,4 @@
-# IgPycker
+# IgPycker [Deprecated]
 
 IgPycker is a command line tool to download Profile Photo of any Instagram user. 
 
